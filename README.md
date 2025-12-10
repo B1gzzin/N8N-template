@@ -1,4 +1,4 @@
-[Personal IA.json](https://github.com/user-attachments/files/24084634/Personal.IA.json)# N8N-template
+# N8N-template
 Agente de Atendimento Automático com n8n 🤖
 
 Agente de IA para Personal Trainer 🏋🥬
